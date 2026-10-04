@@ -9,7 +9,7 @@ This is my data analysis portfolio where I outline my previous projects and the 
 
 ## Tech Stack
 
-**Languages:** Python, R
+**Languages:** Python, R, SQL
 
 **Python Libraries:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn, statsmodels
 
@@ -31,6 +31,6 @@ This is my data analysis portfolio where I outline my previous projects and the 
 - Predictive Analytics Project using Python and R
 
 
-## Contact Details
+## Contact
 
-**LinkedIn:** [George Breese] (https://linkedin.com/in/geobree/)
+**LinkedIn:** [George Breese](https://linkedin.com/in/geobree/)
