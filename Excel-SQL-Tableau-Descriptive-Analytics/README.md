@@ -1,60 +1,14 @@
-# Descriptive Analytics Project using Excel and Tableau
+# Descriptive Analytics Project using Excel, SQL and Tableau
 
 ## Project Overview
-This project involved working with simulated data for a fictitious supermarket. 2Market is a global supermarket which sells products online and in-store. It was my aim to help it understand its customers' purchase behaviour. To support 2Market, I analysed the data using Excel and created a dashboard in Tableau that included key metrics to inform decision-making.
+
+This project involved working with simulated data for a fictitious supermarket. 2Market is a global supermarket which sells products online and in-store. It was my aim to help it understand its customers' purchase behaviour. To support 2Market, I analysed the data using Excel and SQL and created a dashboard in Tableau that included key metrics to inform decision-making.
 
 ## Project Context
 
 This project was completed as part of the LSE Data Analytics Career Accelerator. A simulated business scenario and datasets were provided as the starting point for the project, which I then used to conduct and document my own analysis.
 
 As part of the assignment, I was required to produce a technical report documenting the analysis and create a video presentation communicating the findings and recommendations.
-
-## Objectives
-2Market wants to understand:
-- The demographics of its customers
-- Which advertising channels seem to be the most effective
-- Which products seem to sell the best and whether this varies by demographic
-
- ## Tools Used
-- Microsoft Excel — data cleaning, preparation and exploratory analysis
-- Tableau — data visualisation and interactive dashboard development
-
-## Data Preparation
-Before I could begin the analysis, I used Excel to prepare the data. I loaded the CSV files into Excel and created copies of the raw data to avoid mistakes being baked into the analysis. The data preparation techniques included:
-- Identifying missing data and categorising it as 'NA'
-- Removing unnecessary white space
-- Correctly capitalising names
-- Correcting data input errors, such as spelling mistakes
-- Using XLOOKUP to standardise values across the datasets, such as marital status
-- Creating new variables, such as age, by using formulae across columns
-- Improving variable names 
-- Ensuring the data was in the correct format, such as date or currency
-- Removing duplicates
-
-## Exploratory Data Analysis
-After preparing the data, some exploratory analysis was conducted to understand the data.
-- Using MIN and MAX formulae on numerical data to ascertain the range of the data
-- Using COUNT formulae to determine the number of observations
-- Checking the unique values within categorical variables
-- Creating charts, such as scatterplots, to identify potential outliers
-- Using PivotTables to assess aggregated data across categories
-- Used the PivotTables to create charts of the aggregated data
-
-## SQL Analysis
-
-The two datasets were imported into a PostgreSQL database and analysed using pgAdmin. I created two tables and defined the appropriate columns and data types.
-
-SQL was then used to analyse the advertising data. This included:
-
-- Joining the two datasets using the customer ID
-- Using aggregate functions such as SUM()
-- Grouping results by country
-- Comparing the success of different s
-# Descriptive Analytics Project using Excel, SQL and Tableau
-
-## Project Overview
-
-This project involved working with simulated data for a fictitious supermarket. 2Market is a global supermarket which sells products online and in-store. It was my aim to help it understand its customers' purchase behaviour. To support 2Market, I analysed the data using Excel and SQL and created a dashboard in Tableau that included key metrics to inform decision-making.
 
 ## Objectives
 
