@@ -12,6 +12,8 @@ As part of the assignment, I was required to produce a technical report document
 
 This project was completed as part of the LSE Data Analytics Career Accelerator. A simulated business scenario and datasets were provided as the starting point for the project, which I then used to conduct and document my own analysis.
 
+As part of the assignment, I was required to produce a technical report documenting the analysis and create a video presentation communicating the findings and recommendations.
+
 ## Objectives
 
 Turtle Games wanted to use its customer data to better understand its customers and improve sales performance. The analysis aimed to:
@@ -144,4 +146,7 @@ The machine learning models identify patterns and relationships within the avail
 
 ## Project Files
 
-Project files and supporting materials will be added where appropriate.
+- [View Turtle Games Analysis Jupyter Notebook](Turtle-Games-Analysis-Python.ipynb)
+- [View Turtle Games Analysis R Script](Turtle-Games-Analysis-r.R)
+- [View Turtle Games Analysis Technical Report](Turtle-Games-Analysis-Technical-Report.pdf)
+- [View Turtle Games Analysis Presentation Slide Deck](Turtle-Games-Analysis-Presentation-Slide-Deck.pdf)
