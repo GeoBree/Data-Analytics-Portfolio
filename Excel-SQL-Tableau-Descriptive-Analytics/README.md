@@ -47,24 +47,7 @@ SQL was then used to analyse the advertising data. This included:
 - Joining the two datasets using the customer ID
 - Using aggregate functions such as SUM()
 - Grouping results by country
-- Comparing the success of different social media advertising channels across countries
-
-## Tableau Dashboard
-
-The cleaned data was loaded into Tableau and joined with the advertising dataset. Further data preparation and analysis included:
-
-- Creating a left join between the marketing and advertising datasets
-- Pivoting the spending data from wide to long format
-- Creating calculated fields to analyse the success of different advertising channels
-
-I then created an interactive dashboard to present the results of the analysis. The dashboard included:
-
-- Headline KPIs to provide an overview of key metrics
-- Bar charts to compare results across different categories
-- Filters for country and marital status to allow more granular analysis
-- Filters to compare the success of individual advertising channels
-- An accessible colour palette to make the dashboard easier to interpret
-
+- Comparing the success of different s
 # Descriptive Analytics Project using Excel, SQL and Tableau
 
 ## Project Overview
@@ -172,6 +155,8 @@ The advertising data only provides information about customers contained within 
 
 ## Project Files
 
-[View Technical Report](2Market-Technical-Report.pdf)
+[View 2Market Analysis Technical Report](2Market-Technical-Report.pdf)
 [View 2Market Dashboard](2Market-Dashboard.twb)
-[View SQL Queries](2Market-Analysis.sql)
+[View 2Market SQL Queries](2Market-Analysis.sql)
+[View 2Market Analysis Presentation Slide Deck](2Market-Presentation-Slide-Deck.pdf)
+
