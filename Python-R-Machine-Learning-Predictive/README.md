@@ -6,8 +6,6 @@ This project involved analysing customer data for Turtle Games, a fictitious gam
 
 Python and R were used to explore the data, build statistical and machine learning models, identify different groups of customers and analyse customer reviews.
 
-As part of the assignment, I was required to produce a technical report documenting the analysis and create a video presentation communicating the findings and recommendations.
-
 ## Project Context
 
 This project was completed as part of the LSE Data Analytics Career Accelerator. A simulated business scenario and datasets were provided as the starting point for the project, which I then used to conduct and document my own analysis.
