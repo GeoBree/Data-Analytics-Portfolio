@@ -8,6 +8,8 @@
 
 ## About Me
 
+<img src="Profile-Picture.jpg" width="160" align="right">
+
 Hi, I'm George. I'm a mathematics graduate and qualified maths teacher who is transitioning into data analytics.
 
 This portfolio showcases my data analytics projects and the skills I have developed across data cleaning, exploratory analysis, SQL, data visualisation, statistical modelling and machine learning.
