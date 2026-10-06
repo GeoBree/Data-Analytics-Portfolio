@@ -6,6 +6,10 @@ This project involved analysing NHS appointment data using Python. The aim was t
 
 The analysis focused on appointment volumes, service settings, healthcare professionals, appointment modes and missed appointments to identify patterns that could help inform decisions around NHS capacity.
 
+## Project Context
+
+This project was completed as part of a data analytics training programme. An assignment notebook template was provided as the starting point for the project, which I then used to conduct and document my own analysis.
+
 ## Objectives
 
 The analysis aimed to understand:
