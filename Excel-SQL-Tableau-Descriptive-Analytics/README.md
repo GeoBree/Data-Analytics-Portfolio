@@ -111,8 +111,8 @@ The advertising data only provides information about customers contained within 
 
 ## Project Files
 
-[View 2Market Analysis Technical Report](2Market-Technical-Report.pdf)
-[View 2Market Dashboard](2Market-Dashboard.twb)
-[View 2Market SQL Queries](2Market-Analysis.sql)
-[View 2Market Analysis Presentation Slide Deck](2Market-Presentation-Slide-Deck.pdf)
+- [View 2Market Analysis Technical Report](2Market-Technical-Report.pdf)
+- [View 2Market Dashboard](2Market-Dashboard.twb)
+- [View 2Market SQL Queries](2Market-Analysis.sql)
+- [View 2Market Analysis Presentation Slide Deck](2Market-Presentation-Slide-Deck.pdf)
 
