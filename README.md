@@ -24,7 +24,7 @@ This is my data analysis portfolio where I outline my previous projects and the 
 
 ## Projects
 
-- Descriptive Analytics Project using Excel, SQL and Tableau
+- [Descriptive Analytics Project using Excel, SQL and Tableau](Excel-SQL-Tableau-Descriptive-Analytics/)
 
 - Descriptive Analytics Project using Python
 
