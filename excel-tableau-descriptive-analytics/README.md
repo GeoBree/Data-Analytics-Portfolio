@@ -3,6 +3,10 @@
 ## Project Overview
 This project involved working with simulated data for a fictitious supermarket. 2Market is a global supermarket which sells products online and in-store. It was my aim to help it understand its customers' purchase behaviour. To support 2Market, I analysed the data using Excel and created a dashboard in Tableau that included key metrics to inform decision-making.
 
+## Project Context
+
+This project was completed as part of the LSE Data Analytics Career Accelerator. A simulated business scenario and datasets were provided as the starting point for the project, which I then used to conduct and document my own analysis.
+
 ## Objectives
 2Market wants to understand:
 - The demographics of its customers
