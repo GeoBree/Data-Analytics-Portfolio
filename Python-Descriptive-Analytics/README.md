@@ -8,7 +8,7 @@ The analysis focused on appointment volumes, service settings, healthcare profes
 
 ## Project Context
 
-This project was completed as part of a data analytics training programme. An assignment notebook template was provided as the starting point for the project, which I then used to conduct and document my own analysis.
+This project was completed as part of the LSE Data Analytics Career Accelerator. An assignment notebook template and datasets were provided as the starting point for the project, which I then used to conduct and document my own analysis.
 
 As part of the assignment, I was required to produce a technical report documenting the analysis and create a video presentation communicating the findings and recommendations.
 
@@ -91,6 +91,6 @@ The analysis identified relationships and patterns within the available data, bu
 
 ## Project Files
 
-[View NHS Analysis Jupyter Notebook](NHS-Appointment-Analysis.ipynb)
-[View NHS Analysis Technical Report](NHS-Appointment-Technical-Report.pdf)
-[View NHS Analysis Presentation Slide Deck](NHS-Appointment-Presentation-Slide-Deck.pdf)
+- [View NHS Analysis Jupyter Notebook](NHS-Appointment-Analysis.ipynb)
+- [View NHS Analysis Technical Report](NHS-Appointment-Technical-Report.pdf)
+- [View NHS Analysis Presentation Slide Deck](NHS-Appointment-Presentation-Slide-Deck.pdf)
