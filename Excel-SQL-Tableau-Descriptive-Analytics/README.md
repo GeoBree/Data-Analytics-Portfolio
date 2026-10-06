@@ -7,6 +7,8 @@ This project involved working with simulated data for a fictitious supermarket. 
 
 This project was completed as part of the LSE Data Analytics Career Accelerator. A simulated business scenario and datasets were provided as the starting point for the project, which I then used to conduct and document my own analysis.
 
+As part of the assignment, I was required to produce a technical report documenting the analysis and create a video presentation communicating the findings and recommendations.
+
 ## Objectives
 2Market wants to understand:
 - The demographics of its customers
