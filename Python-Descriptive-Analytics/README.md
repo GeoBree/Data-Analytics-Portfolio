@@ -89,4 +89,5 @@ The analysis identified relationships and patterns within the available data, bu
 
 ## Project Files
 
-Project files and supporting materials will be added where appropriate.
+[View NHS Analysis Jupyter Notebook](NHS-Appointment-Analysis.ipynb)
+[View NHS Analysis Technical Report](NHS-Appointment-Technical-Report.pdf)
