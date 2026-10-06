@@ -172,4 +172,6 @@ The advertising data only provides information about customers contained within 
 
 ## Project Files
 
-Project files and supporting materials will be added where appropriate.
+[View Technical Report](2Market-Technical-Report.pdf)
+[View 2Market Dashboard](2Market-Dashboard.twb)
+[View SQL Queries](2Market-Analysis.sql)
