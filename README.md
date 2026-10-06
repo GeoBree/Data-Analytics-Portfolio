@@ -28,7 +28,7 @@ This is my data analysis portfolio where I outline my previous projects and the 
 
 - [Descriptive Analytics Project using Python](Python-Descriptive-Analytics/)
 
-- Predictive Analytics Project using Python and R
+- [Predictive Analytics and Machine Learning Project using Python and R](Python-R-Machine-Learning-Predictive-Analytics/)
 
 
 ## Contact
